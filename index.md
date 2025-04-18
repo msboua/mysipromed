@@ -1,67 +1,58 @@
-Politique de Confidentialité de MySipromed
+# Conditions d'Utilisation
 
-Dernière mise à jour : 14-04-2025
-1. Responsable du Traitement
+## 1. Acceptation des Conditions
 
-SIPROMED ASSISTANCE
-Siège social : Abidjan, plateau, immeuble delafosse
-Email : contact@m3sassurance.com
-Téléphone : +2250170943118
-2. Finalités du Traitement
+En utilisant l'application mobile **Mysipromed** de **SIPROMED-ASSISTANCE**, vous acceptez les présentes conditions d'utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre application.
 
-Les données collectées sont utilisées pour :
-✓ Fournir un accès personnalisé à votre couverture santé
-✓ Géolocaliser les établissements partenaires
-✓ Consulter ses medicaments prescrits
-✓ Consulter les pharmacies de garde
+## 2. Utilisation de l'Application
 
-Base légale : Exécution du contrat (Art. 6.1.b RGPD) pour les données obligatoires ; Consentement (Art. 6.1.a RGPD) pour la géolocalisation.
-3. Données Collectées
-Catégorie	Exemples	Sensibilité
-Identification	Nom, prénom, numéro d'assuré	Standard
-Contact	 téléphone	Standard
-Santé	Taux de couverture, historiques	Sensible
-4. Destinataires des Données
+L'application mobile **Mysipromed SIPROMED-ASSISTANCE** est destinée à être utilisée par les assurés pour :
+- consulter leurs médicaments prescrits,
+- vérifier leurs taux de remboursement,
+- localiser les officines partenaires,
+- soumettre des demandes de remboursement.
 
-    Interne : Services techniques et support client
+Toute utilisation abusive ou frauduleuse de l'application peut entraîner la résiliation du contrat d'assurance.
 
-5. Sécurité des Données
+## 3. Compte Utilisateur
 
-Mesures techniques :
+Pour accéder à l'application **Mysipromed**, vous devez être préalablement enregistré dans notre base de données lors du dépôt de votre dossier de souscription à une formule.  
+Un compte utilisateur vous sera attribué.  
+Vous êtes entièrement responsable de la confidentialité de vos identifiants de connexion ainsi que de toute utilisation effectuée via votre compte.
 
-    Chiffrement AES-256 des données sensibles
+## 4. Propriété Intellectuelle
 
-    Authentification forte (2FA)
+Tous les droits de propriété intellectuelle relatifs à l'application mobile et aux contenus fournis par **SIPROMED-ASSISTANCE** sont réservés.  
+Toute reproduction, distribution, ou utilisation non autorisée est strictement interdite.
 
-    Audit de sécurité annuel
+## 5. Limitation de Responsabilité
 
-6. Exercice de Vos Droits
+**SIPROMED-ASSISTANCE** ne peut être tenue responsable des dommages indirects, accidentels, ou consécutifs résultant de l'utilisation de l'application mobile.  
+Nous nous efforçons de fournir des informations précises et à jour, mais nous ne garantissons pas l'exactitude ou l'exhaustivité des informations disponibles sur l'application.
 
-Envoyer une demande à [contact@m3sassurance.com] avec :
+## 6. Modification des Conditions
 
-    Copie de pièce d'identité
+**SIPROMED-ASSISTANCE** se réserve le droit de modifier les présentes conditions d'utilisation à tout moment.  
+Les modifications seront publiées sur l'application mobile et entreront en vigueur immédiatement.
 
-    Précision du droit exercé (accès, rectification, etc.)
+## 7. Confidentialité
 
-Délai de réponse : 1 mois maximum
-8. Réclamation
+Les informations personnelles collectées via l'application mobile sont soumises à notre politique de confidentialité.  
+Nous nous engageons à protéger vos données personnelles et à les utiliser conformément aux lois et réglementations en vigueur.
 
-En cas de litige, vous pouvez saisir :
+## 8. Utilisation des Services
 
-    Notre service ([contact@m3sassurance.com])
+Les services de l'application mobile sont destinés à être utilisés conformément aux lois et réglementations en vigueur.  
+Toute utilisation abusive ou frauduleuse des services peut entraîner la résiliation du contrat d'assurance.
 
+## 9. Support Technique
 
-9. Cookies et Trackers
+Pour toute question ou problème technique concernant l'application mobile, veuillez contacter notre service client.  
+Nous nous efforcerons de vous fournir une assistance rapide et efficace.
+- email : **[contact@m3sassurance.com]**
+- contact : **+2250140001010**
 
-L'application utilise :
-✓ Cookies techniques (obligatoires)
+## 10. Résiliation
 
-
-Désactivation possible dans les paramètres
-10. Évolutions
-
-Notification par :
-
-    Message in-app 30 jours avant modification
-
-    Email pour changements majeurs
+**SIPROMED-ASSISTANCE** se réserve le droit de résilier votre accès à l'application mobile en cas de violation des présentes conditions d'utilisation.  
+Vous pouvez également résilier votre compte à tout moment en contactant notre service client.
