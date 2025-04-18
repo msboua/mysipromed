@@ -10,7 +10,7 @@ L'application mobile **Mysipromed SIPROMED-ASSISTANCE** est destinée à être u
 - consulter leurs médicaments prescrits,
 - vérifier leurs taux de remboursement,
 - localiser les officines partenaires,
-- soumettre des demandes de remboursement.
+- consulter les pharmacies de garde partenaires.
 
 Toute utilisation abusive ou frauduleuse de l'application peut entraîner la résiliation du contrat d'assurance.
 
@@ -51,6 +51,7 @@ Pour toute question ou problème technique concernant l'application mobile, veui
 Nous nous efforcerons de vous fournir une assistance rapide et efficace.
 - email : **[contact@m3sassurance.com]**
 - contact : **+2250140001010**
+- Localisation : **Localisation : Abidjan Plateau immeuble delafosse**
 
 ## 10. Résiliation
 
